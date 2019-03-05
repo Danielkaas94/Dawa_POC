@@ -9,3 +9,8 @@ For more information about the Dawa-api check out (http://dawa.aws.dk)
 <p align="center">
   <img alt="CMDFun in Action!" src="https://i.imgur.com/zFOCp.png">
 </p>
+
+Join CodeWars with me!: www.codewars.com/r/hGyTsQ
+<p>
+  <img alt="CodeWars Badge" src="https://www.codewars.com/users/Danielkaas94/badges/large">
+</p>
